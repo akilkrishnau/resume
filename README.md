@@ -1,6 +1,6 @@
 # Akil's Resume Webpage
 
-This pre-work is a simple HTML and CSS-based resume webpage designed to showcase Akil Krishna's professional profile. The webpage includes sections for Contact Information, Skills, Education & Certifications, About, and Work Experience.
+This pre-work assignment is a simple HTML and CSS-based resume webpage designed to showcase Akil Krishna's professional profile. The webpage includes sections for Contact Information, Skills, Education & Certifications, About, and Work Experience.
 
 ## Usage
 
